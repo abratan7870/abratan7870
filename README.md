@@ -18,6 +18,11 @@
 <div>
 <hr>
   
+
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=abratan7870&theme=gruvbox&column=7">
+</div>
+  
 <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=abratan7870&show_icons=true&theme=react-dark">
 </div>
