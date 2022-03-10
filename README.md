@@ -13,7 +13,7 @@
 [![Mail Badge](https://img.shields.io/badge/-abhishekratan6-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:abhishekratan6@gmail.com)
 
 <div align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamkumarxyz572&theme=chartreuse-dark&hide_border=true" alt="Shubham's Streak" width="49%" >
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abratan7870&theme=chartreuse-dark&hide_border=true" alt="Abhishek's Streak" width="49%" >
   <img src="https://github-readme-stats.vercel.app/api?username=abratan7870&show_icons=true&theme=radical">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abratan7870&show_icons=true&theme=radical" height="195px">
 <div>
